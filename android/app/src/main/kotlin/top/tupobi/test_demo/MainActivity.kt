@@ -1,4 +1,4 @@
-package com.example.flutter_integration_test
+package top.tupobi.test_demo
 
 import io.flutter.embedding.android.FlutterActivity
 
